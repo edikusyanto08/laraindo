@@ -35,17 +35,17 @@
     },
     "authors": [
         {
-            "name": "Afrizal",
-            "email": "afrizalyasin423@gmail.com",
-            "homepage": "https://github.com/afrizal423",
+            "name": "Edi Kusyanto",
+            "email": "edikusyanto08@gmail.com",
+            "homepage": "https://github.com/edikusyanto08",
             "role": "Developer"
         }
     ],
     "support": {
-        "email": "afrizalyasin423@gmail.com",
-        "issues": "https://github.com/afrizal423/laraindo/issues",
-        "source": "https://github.com/afrizal423/laraindo",
-        "docs": "https://github.com/afrizal423/laraindo/README.md"
+        "email": "edikusyanto08@gmail.com",
+        "issues": "https://github.com/edikusyanto08/laraindo/issues",
+        "source": "https://github.com/edikusyanto08/laraindo",
+        "docs": "https://github.com/edikusyanto08/laraindo/README.md"
     },
     "minimum-stability": "dev",
     "scripts": {
